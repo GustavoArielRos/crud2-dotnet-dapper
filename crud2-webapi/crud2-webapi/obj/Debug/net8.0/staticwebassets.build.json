@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "o+HhCyPReHn0mlYm/DytduzX3EQ+Zk5zMpZaGcbitX4=",
+  "Source": "crud2-webapi",
+  "BasePath": "_content/crud2-webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
